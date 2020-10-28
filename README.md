@@ -1,2 +1,3 @@
-# theplanet
-Min hemsida om jorden
+# The Planet
+
+Min hemsida om jorden.
